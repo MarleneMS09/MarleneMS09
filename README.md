@@ -1,16 +1,12 @@
-### Hi there 👋
+###    <i> HELLO WORLD 🌎<i>
+<h1> I'm a web developer 👩‍💻 <h1> 
+<h2> I'm a passionate and self-taugth person who like created things with code 💬2⃣7⃣0⃣1⃣ <h2>
+<br>
+<h3>-〽I'm currently working with: JavaScript and Python
+<br>
+-🌱 I’m currently learning: Node JS, Angular and PHP 
+<br>
+- 💬 Ask me: about Python<h3>
+<br>
 
-<!--
-**MarleneMS09/MarleneMS09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
