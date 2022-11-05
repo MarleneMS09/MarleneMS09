@@ -22,7 +22,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a> 🟩🟩🟩🟩</h3> 
 <h3>      
-   🟦🟦 🏆 In a future: I'd like to become a data science <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦🟦 <h3>
+   🟦🟦 🏆 In a future: I'd like to become a data science <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦 <h3>
        <br>
 
 
