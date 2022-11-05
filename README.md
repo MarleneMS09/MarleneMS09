@@ -56,17 +56,17 @@
 
 <br/>
        <br>
-
+<a href="https://github.com/MarleneMS09" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarleneMS09&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&theme=buefy&layout=compact" />
+</a>
  <br>
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarleneMS09&theme=dark&hide_border=true"/>
   
 </p>   
 
-<a href="https://github.com/MarleneMS09" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarleneMS09&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&theme=buefy&layout=compact" />
-</a>
+
 
 <br/>
 
