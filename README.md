@@ -29,7 +29,8 @@
    🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 🏆 In a future I'd like to become a data science 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 
      <br>🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 <h8>
  <br>
-     
+       <br>
+
 
 
 <h3> 🛠 &nbsp;Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
@@ -53,6 +54,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+       <br>
+
+ <br>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarleneMS09&theme=dark&hide_border=true"/>
+  
+</p>   
 
 <a href="https://github.com/MarleneMS09" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarleneMS09&theme=buefy&show_icons=true" />
