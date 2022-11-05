@@ -6,23 +6,23 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <h3>                                                                     <br>
-      🟥🟥🟥🟥 💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 🟥🟥🟥🟥🟥  </h3>
+      🟥🟥 💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 🟥🟥  </h3>
 <h3> 
-       🟨🟨🟨🟨🟨🟨 🧙‍ I'm currently working with:JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      🟨🟨🟨 🧙‍ I'm currently working with:JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a> and Python <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>  🟨🟨🟨🟨🟨🟨 </h3>
+  </a>  🟨🟨🟨 </h3>
 <h3>
-     🟧🟧🟧🟧🟧🟧🟧🌱 I’m currently learning: PHP <a href="https://www.php.net/">
+     🟧🟧🟧🌱 I’m currently learning: PHP <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a> and GNU/LINUX <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a> 🟧🟧🟧🟧🟧🟧🟧 </h3>
+  </a> and GNU/LINUX <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a> 🟧🟧🟧 </h3>
 <h3>
-   🟩🟩🟩🟩🟩🟩🟩🟩 💬 Ask me: about Python <a href="https://www.python.org" target="_blank">
+   🟩🟩🟩🟩 💬 Ask me: about Python <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a> 🟩🟩🟩🟩🟩🟩🟩🟩 </h3> 
+  </a> 🟩🟩🟩🟩</h3> 
 <h3>      
-   🟦🟦🟦🟦🟦🟦🟦🟦🟦 🏆 In a future: I'd like to become a data science <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦🟦🟦🟦🟦🟦🟦🟦 <h3>
+   🟦🟦 🏆 In a future: I'd like to become a data science <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦🟦 <h3>
        <br>
 
 
