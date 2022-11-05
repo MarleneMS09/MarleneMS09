@@ -22,7 +22,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a> 🟩🟩🟩🟩🟩🟩🟩🟩 </h3> 
 <h3>      
-   🟦🟦🟦🟦🟦🟦🟦🟦🟦 🏆 In a future I'd like to become a data science 🟦🟦🟦🟦🟦🟦🟦🟦🟦 <h3>
+   🟦🟦🟦🟦🟦🟦🟦🟦🟦 🏆 In a future: I'd like to become a data science <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦🟦🟦🟦🟦🟦🟦🟦 <h3>
        <br>
 
 
@@ -73,4 +73,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/MarleneMS09?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/MarleneMS09?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
  
 
-⭐️ Credits:  [AVS1508](https://github.com/AVS1508), Candida18
+⭐️ Credits:  [AVS1508](https://github.com/AVS1508), Candida18, [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
+
