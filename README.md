@@ -66,7 +66,9 @@
 <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez-4b6572151/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vanessa Marlene Morfin Sanchez-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:marlenemsanchez05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marlenemsanchez05@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-    
-  
+
+       
+![GitHub followers](https://img.shields.io/github/followers/MarleneMS09?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/MarleneMS09?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
+ 
 
 ⭐️ From  [AVS1508](https://github.com/AVS1508)
