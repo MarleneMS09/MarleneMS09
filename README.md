@@ -64,9 +64,8 @@
 <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez-4b6572151/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vanessa Marlene Morfin Sanchez-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:marlenemsanchez05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marlenemsanchez05@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarleneMS09&theme=dark&show_icons=true)
+  
 
 ⭐️ From  [AVS1508](https://github.com/AVS1508)
-      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarleneMS09&theme=dark&show_icons=true)
-    
