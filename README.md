@@ -70,7 +70,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez-4b6572151/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vanessa Marlene Morfin Sanchez-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:marlenemsanchez05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marlenemsanchez05@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
