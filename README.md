@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <h3>                                                                     <br>
-      🟥🟥🟥🟥 💬 I'm a passionate and self-taugth person who likes to create things with code  🟥🟥🟥🟥🟥  </h3>
+      🟥🟥🟥🟥 💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 🟥🟥🟥🟥🟥  </h3>
 <h3> 
        🟨🟨🟨🟨🟨🟨 🧙‍ I'm currently working with:JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
