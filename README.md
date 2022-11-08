@@ -16,7 +16,9 @@
 <h3>
      🟧🟧🟧🌱 I’m currently learning: PHP <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a> and GNU/LINUX <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a> 🟧🟧🟧 </h3>
+  </a> and GNU/LINUX <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a><a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a> 🟧🟧🟧 </h3>
 <h3>
    🟩🟩🟩🟩 💬 Ask me: about Python <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
