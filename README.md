@@ -68,8 +68,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez-4b6572151/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vanessa Marlene Morfin Sanchez-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:marlenemsanchez05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marlenemsanchez05@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href = "mailto:marlenemsanchez05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez-4b6572151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 </p>
 
        
