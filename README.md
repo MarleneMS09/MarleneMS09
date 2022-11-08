@@ -3,7 +3,7 @@
 
     
 <h2>🅸'🅼 ​ 🅰 ​ 🆆🅴🅱 ​ 🅳🅴🆅🅴🅻🅾🅿🅴🆁 👩‍💻 </h2>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <h3>                                                                     <br>
       🟥🟥 💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 🟥🟥  </h3>
