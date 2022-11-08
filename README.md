@@ -51,7 +51,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-       <br>
+       <br> <h6> Github Stats: <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h6>
 <a href="https://github.com/MarleneMS09" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarleneMS09&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&theme=buefy&layout=compact" />
