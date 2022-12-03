@@ -13,9 +13,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>  🟨🟨🟨 </h3>
 <h3>
-     🟧🟧🟧🌱 I’m currently learning: PHP <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a> and GNU/LINUX <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a><a href="https://ubuntu.com/" target="_blank"> 
+     🟧🟧🟧🌱 I’m currently learning: Data Analysis, area front-end and back-end. 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a> 🟧🟧🟧 </h3>
 <h3>
@@ -25,8 +23,6 @@
 <h3>      
    🟦🟦 🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦 <h3>
        <br>
-
-     🔴 🟠 🟡 🟢 🔵  I'm preparing for: the AWS exam as cloud architect 🔴 🟠 🟡 🟢 🔵 
 
 
 <h3> 🛠 &nbsp;Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
