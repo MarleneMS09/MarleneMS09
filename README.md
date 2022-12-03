@@ -14,7 +14,6 @@
   </a>  🟨🟨🟨 </h3>
 <h3>
      🟧🟧🟧🌱 I’m currently learning: Data Analysis, area front-end and back-end. 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a> 🟧🟧🟧 </h3>
 <h3>
    🟩🟩🟩🟩 💬 Ask me: about Python <a href="https://www.python.org" target="_blank">
