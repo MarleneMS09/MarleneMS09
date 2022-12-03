@@ -1,6 +1,5 @@
 
-<h1>["<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">World","I'm Vanessa Marlene"] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><h1><img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
-
+<h1>["<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">World","I'm Vanessa Marlene"] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     
 <h2>🅸'🅼 ​ 🅰 ​ 🆆🅴🅱 ​ 🅳🅴🆅🅴🅻🅾🅿🅴🆁 👩‍💻 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
