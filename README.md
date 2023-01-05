@@ -1,7 +1,7 @@
 
 <h1>["<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">World","I'm Vanessa Marlene"] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     
-<h2>🅸'🅼 ​ 🅰 ​ 🆆🅴🅱 ​ 🅳🅴🆅🅴🅻🅾🅿🅴🆁 👩‍💻 </h2>
+<h2>I'M WEB DEVELOPER 👩‍💻 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <h3>                                                                     <br>
@@ -13,7 +13,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>  🟨🟨🟨 </h3>
 <h3>
-     🟧🟧🟧🌱 I’m currently learning: Data Analysis, front-end and back-end. 
+     🟧🟧🟧🌱 I’m currently learning: Data Analysis, front-end and Data Sciente. 
   </a> 🟧🟧🟧 </h3>
 <h3>
    🟩🟩🟩🟩 💬 Ask me: about Python <a href="https://www.python.org" target="_blank">
