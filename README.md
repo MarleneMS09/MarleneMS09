@@ -16,35 +16,77 @@
      🟧🟧🟧🌱 I’m currently learning: Data Analysis, front-end and Data Science. 
   </a> 🟧🟧🟧 </h3>
 <h3>
-   🟩🟩🟩🟩 💬 Ask me: about Python <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a> 🟩🟩🟩🟩</h3> 
+   🟩🟩🟩🟩 💬 Ask me: About JavaScript, SQL and web design 🟩🟩🟩🟩</h3> 
 <h3>      
    🟦🟦 🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦 <h3>
        <br>
 
-
-<h3> 🛠 &nbsp;Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
-
-  - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
+<kbd>Programming Languages</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+</kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>Back-end</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Front-end</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+    <kbd>
+      <kbd>System, Networking & Deployment</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Terminal Scripts</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Tools</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
+  </kbd>
+     <kbd>
+      <kbd>Game Development</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    </kbd>
+  </p>
+</div>
+</details>
+<br>
+<br>
        <br> <h6> Github Stats: <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h6>
 <a href="https://github.com/MarleneMS09" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarleneMS09&theme=buefy&show_icons=true" />
