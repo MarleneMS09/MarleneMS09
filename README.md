@@ -104,8 +104,8 @@
 
 <h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with Me </h3>
 <p align="left">
-<a href = "mailto:marlenemsanchez05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez-4b6572151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:marlenemsanchez05@gmail.com?subject=Hi%20Marlene%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+ <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> 
 </div>
 </p>
 
@@ -113,5 +113,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/MarleneMS09?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/MarleneMS09?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
  
 
-⭐️ Credits:  [AVS1508](https://github.com/AVS1508), Candida18, [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar),[Yasmeen Brain](https://github.com/YasPHP)[Aditya Deshmukh](https://github.com/Aditya664)
+⭐️ Credits:  [AVS1508](https://github.com/AVS1508), Candida18, [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar),[Yasmeen Brain](https://github.com/YasPHP)[Aditya Deshmukh](https://github.com/Aditya664)[Austinae](https://github.com/Austinae)
 
