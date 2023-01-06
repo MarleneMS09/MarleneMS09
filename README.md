@@ -1,5 +1,9 @@
 
-<h1>["<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">World","I'm Vanessa Marlene"] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1><p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+    <br>
+    <br>
+ ["I'm Vanessa Marlene"] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     
 <h2>I'M WEB DEVELOPER 👩‍💻 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
