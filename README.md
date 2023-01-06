@@ -3,9 +3,9 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
     <br>
     <br>
- ["I'm Vanessa Marlene"] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ 
     
-<h2>I'M WEB DEVELOPER 👩‍💻 </h2>
+<h2> ["I'm Vanessa Marlene"]; I'M WEB DEVELOPER 👩‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <h3>                                                                     <br>
