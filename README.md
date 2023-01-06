@@ -108,7 +108,9 @@
  <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> 
 </div>
 </p>
-
+<br>
+<br>
+<br>
        
 ![GitHub followers](https://img.shields.io/github/followers/MarleneMS09?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/MarleneMS09?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
  
