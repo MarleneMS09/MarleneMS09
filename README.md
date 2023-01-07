@@ -25,9 +25,6 @@
    🟦🟦 🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦 <h3>
        <br>
   </div>
-</details>
-<br>
-<br>
 <div>
 &emsp;
 
@@ -37,7 +34,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
 
 ### Frontend development:
 &emsp;
@@ -64,12 +60,6 @@
 &emsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
   </div>
-  
-  
-  
-  
-  
-  
   <div>
   <br> <h6> Github Stats: <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h6>
 <a href="https://github.com/MarleneMS09" />
@@ -78,13 +68,10 @@
 </a>
  <br>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarleneMS09&theme=dark&hide_border=true"/>
-  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarleneMS09&theme=dark&hide_border=true"/>  
 </p>   
 <br/>
 </div>
-
-
 <h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with Me </h3>
 <p align="left">
 <a href="mailto:marlenemsanchez05@gmail.com?subject=Hi%20Marlene%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
