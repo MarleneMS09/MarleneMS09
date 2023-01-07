@@ -7,7 +7,7 @@
 <div>  
 <h2> ["I'm Vanessa Marlene"]; I'M WEB DEVELOPER 👩‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>&nbsp;About Me </h3>
 <h3>                                                                     <br>
       🟥🟥 💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 🟥🟥  </h3>
 <h3> 
@@ -78,9 +78,6 @@
  <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> 
 </div>
 </p>
-<br>
-<br>
-<br>
        
 ![GitHub followers](https://img.shields.io/github/followers/MarleneMS09?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/MarleneMS09?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
  
