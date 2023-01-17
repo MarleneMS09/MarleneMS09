@@ -1,28 +1,24 @@
 
-<h1><p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-    <br>
-    <br>
- 
+
 <div>  
 <h2> ["I'm Vanessa Marlene"]; I'M WEB DEVELOPER 👩‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3>&nbsp;About Me </h3>
 <h3>                                                                     <br>
-      🟥🟥 💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 🟥🟥  </h3>
+       💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 </h3>
 <h3> 
-      🟨🟨🟨 🧙‍ I'm currently working with:JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+       🧙‍ I'm currently working with:JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a> and Python <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>  🟨🟨🟨 </h3>
+  </a>   </h3>
 <h3>
-     🟧🟧🟧🌱 I’m currently learning: Data Analysis, front-end and Data Science. 
-  </a> 🟧🟧🟧 </h3>
+     🌱 I’m currently learning: Data Analysis, front-end and Data Science. 
+  </a> </h3>
 <h3>
-   🟩🟩🟩🟩 💬 Ask me: About JavaScript, SQL and web design 🟩🟩🟩🟩</h3> 
+    💬 Ask me: About JavaScript, SQL and web design </h3> 
 <h3>      
-   🟦🟦 🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 🟦🟦 <h3>
+   🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <h3>
        <br>
   </div>
 <div>
