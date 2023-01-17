@@ -13,10 +13,10 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>   </h3>
 <h3>
-     🌱 I’m currently learning: Data Analysis, front-end and Data Science. 
+     🌱 I’m currently learning: Data Analysis and Front-end and Videogames Design
   </a> </h3>
 <h3>
-    💬 Ask me: About JavaScript, SQL and web design </h3> 
+    💬 Ask me: About JavaScript, Python, SQL, and Web design </h3> 
 <h3>      
    🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <h3>
        <br>
@@ -28,7 +28,6 @@
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Frontend development:
