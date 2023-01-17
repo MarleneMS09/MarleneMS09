@@ -13,7 +13,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>   </h3>
 <h3>
-     🌱 I’m currently learning: Data Analysis and Front-end and Videogames Design
+     🌱 I’m currently learning: Data Analysis, Front-end and Videogames Design
   </a> </h3>
 <h3>
     💬 Ask me: About JavaScript, Python, SQL, and Web design </h3> 
