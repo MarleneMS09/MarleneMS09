@@ -1,7 +1,8 @@
 
 
 <div>  
-<h2> ["I'm Vanessa Marlene"]; I'M WEB DEVELOPER 👩‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
+<h2> ["I'm Vanessa Marlene"]; 
+       I'M WEB DEVELOPER 👩‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
 
 
 <h3>&nbsp;About Me </h3>
