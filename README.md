@@ -11,14 +11,14 @@
 <h3> 
        🧙‍ I'm currently working with:JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a> and Python <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>   </h3>
+ 
+    
+  </h3>
 <h3>
-     🌱 I’m currently learning: Data Analysis, Front-end and Videogames Design
+     🌱 I’m currently learning: Data Analysis, Front-end and UX-UI design.
   </a> </h3>
 <h3>
-    💬 Ask me: About JavaScript, Python, SQL, and Web design </h3> 
+    💬 Ask me: About JavaScript, SQL, and Web design </h3> 
 <h3>      
    🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <h3>
        <br>
