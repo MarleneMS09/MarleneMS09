@@ -9,8 +9,7 @@
 <h3>                                                                     <br>
        💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 </h3>
 <h3> 
-       🧙‍ I'm currently working with:JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+       🧙‍ I'm currently working with:JS, NodeJs, Linux, SQL, Tableau and Figma. 
  
     
   </h3>
@@ -46,7 +45,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+
 
 ### Databases:
 &emsp;
