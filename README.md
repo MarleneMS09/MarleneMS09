@@ -6,7 +6,9 @@
 
 
 <h3>&nbsp;About Me </h3>
-<h3>                                                                     <br>
+<h3>                                                                     
+       
+       <br>
        💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 </h3>
 <h3> 
        🧙‍ I'm currently working with:JS, NodeJs, Linux, SQL, Tableau and Figma. 
