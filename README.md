@@ -3,14 +3,10 @@
 <div>  
 <h2> ["I'm Vanessa Marlene"]; 
        I'M WEB DEVELOPER 👩‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
-
-
 <h3>&nbsp;About Me </h3>
 <h3> 💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 </h3>
 <h3> 
-       🧙‍ I'm currently working with:JS, NodeJs, Python, and Figma. 
- 
-    
+       🧙‍ I'm currently working with:JS, NodeJs, Python, and Figma.
   </h3>
 <h3>
      🌱 I’m currently learning: Front-end and UX-UI design.
