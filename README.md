@@ -8,15 +8,15 @@
 <h3>&nbsp;About Me </h3>
 <h3> 💬 I'm a passionate and self-taugth person who likes to create things with code 🔢 </h3>
 <h3> 
-       🧙‍ I'm currently working with:JS, NodeJs, Linux, SQL, Tableau and Figma. 
+       🧙‍ I'm currently working with:JS, NodeJs, Python, and Figma. 
  
     
   </h3>
 <h3>
-     🌱 I’m currently learning: Data Analysis, Front-end and UX-UI design.
+     🌱 I’m currently learning: Front-end and UX-UI design.
   </a> </h3>
 <h3>
-    💬 Ask me: About JavaScript, SQL, and Web design </h3> 
+    💬 Ask me: About JavaScript, Data analysis, and Web design </h3> 
 <h3>      
    🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <h3>
        <br>
