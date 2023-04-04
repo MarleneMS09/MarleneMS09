@@ -2,7 +2,7 @@
 
 <div>    
 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+ Vanessa Marlene+%F0%9F%91%8B" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=<Hello world>+%2C+I'm+ Vanessa Marlene+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
  <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
