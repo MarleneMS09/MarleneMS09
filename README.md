@@ -68,7 +68,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&theme=buefy&layout=compact" />
 </a>
  <br>
-<p align="left">
+ <br>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarleneMS09&theme=dark&hide_border=true"/>  
 </p>   
 <br/>
