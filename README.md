@@ -4,7 +4,9 @@
 
  
        
-   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>   <h7> ["I'm Vanessa Marlene"]; I'M WEB DEVELOPER 👩‍💻 </h7> 
+   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+ <br>
+ <h7> ["I'm Vanessa Marlene"]; I'M WEB DEVELOPER 👩‍💻 </h7> 
        
        
        
