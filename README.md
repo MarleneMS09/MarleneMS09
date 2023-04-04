@@ -2,12 +2,10 @@
 
 <div>    
 
- 
-       
-   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
- <br>
- <h7> ["I'm Vanessa Marlene"]; I'M WEB DEVELOPER 👩‍💻 </h7> 
-       
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+ Vanessa Marlene+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+ <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
        
        
 <h6>&nbsp;About Me </h6>
@@ -86,5 +84,5 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
 
 
-⭐️ Credits:  [AVS1508](https://github.com/AVS1508),[Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar),[Yasmeen Brain](https://github.com/YasPHP)[Aditya Deshmukh](https://github.com/Aditya664)[Austinae](https://github.com/Austinae)[Niko-Cloud](https://github.com/Niko-Cloud)
+⭐️ Credits:  [AVS1508](https://github.com/AVS1508), [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar), [Yasmeen Brain](https://github.com/YasPHP)[Aditya Deshmukh](https://github.com/Aditya664), [Austinae](https://github.com/Austinae), [Niko-Cloud](https://github.com/Niko-Cloud), [Mahdiiye](https://github.com/Mahdiiye)
 
