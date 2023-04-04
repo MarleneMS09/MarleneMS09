@@ -1,8 +1,13 @@
 
 
-<div>  
-<h7> ["I'm Vanessa Marlene"]; 
-       I'M WEB DEVELOPER 👩‍💻 </h7>
+<div>    
+
+ 
+       
+   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>   <h7> ["I'm Vanessa Marlene"]; I'M WEB DEVELOPER 👩‍💻 </h7> 
+       
+       
+       
 <h6>&nbsp;About Me </h6>
 <h6> 💬 I'm a passionate and self-taugth person who likes to create and design things </h3>
 <h6> 🧙‍ I'm currently working with:JS, NodeJs, Python, and Figma</h6>
