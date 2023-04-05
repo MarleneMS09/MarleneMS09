@@ -51,16 +51,8 @@
 
 </td></tr></table>
 
-<br/>  
-
-       
-       
-       
-       
-       
-       
-       
-       
+<br>  
+ </div>  
   <div>
   <br> <h6> Github Stats: <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h6>
 <a href="https://github.com/MarleneMS09" />
@@ -72,16 +64,24 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarleneMS09&theme=dark&hide_border=true"/>  
 </p>   
-<br/>
 </div>
-<h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with Me </h3>
-<p align="left">
-<a href="mailto:marlenemsanchez05@gmail.com?subject=Hi%20Marlene%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
- <a href="https://www.linkedin.com/in/vanessa-marlene-morfin-sanchez/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> 
-</div>
-</p>
-  
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
+<br>
+ 
+ 
+ 
+ 
+   ## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:marlenemsanchez05@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/MarleneMS09"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/vanessamarlenemorfinsanchez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.youtube.com/channel/UCpfIuDl1aVmxScz1KatI5XA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> 
+
+ 
+ 
+ 
+ 
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
 
 
 ⭐️ Credits:  [AVS1508](https://github.com/AVS1508), [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar), [Yasmeen Brain](https://github.com/YasPHP)[Aditya Deshmukh](https://github.com/Aditya664), [Austinae](https://github.com/Austinae), [Niko-Cloud](https://github.com/Niko-Cloud), [Mahdiiye](https://github.com/Mahdiiye)
