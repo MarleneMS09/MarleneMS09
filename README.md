@@ -10,8 +10,9 @@
        
 <h6>&nbsp;About Me </h6>
 <h6> 💬 I'm a passionate and self-taugth person who likes to create and design things </h3>
-<h6> 🧙‍ I'm currently working with:JS, NodeJs, Python, and Figma</h6>
-<h6>🌱 I’m currently learning: Front-end and UX-UI design.</h6>
+<h6> 🧙‍ I'm currently working with:JS, NodeJs, React, Python, and Figma </h6>
+<h6>🌱 I’m currently learning: Front-end and UX-UI design</h6>
+<h6> 💻 I'm currently doing: An e-commerce, a project focused in design an app, and my Portfolio </h6>
 <h6>🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><h6>
        
 <h2 align= "left"> Tech Stack 🔧<h2>
