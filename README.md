@@ -8,7 +8,7 @@
  <p align="left">
        
        
-<h6>&nbsp;About Me </h6>
+<h4>&nbsp;About Me </h4>
 <h6> 💬 I'm a passionate and self-taugth person who likes to create and design things </h3>
 <h6> 🧙‍ I'm currently working with:JS, NodeJs, React, Python, and Figma </h6>
 <h6>🌱 I’m currently learning: Front-end and UX-UI design</h6>
