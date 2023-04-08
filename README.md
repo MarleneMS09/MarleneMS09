@@ -14,7 +14,8 @@
 <h6>🌱 I’m currently learning: Front-end and UX-UI design</h6>
 <h6> 💻 I'm currently doing: An e-commerce, a project focused in design an app, and my Portfolio </h6>
 <h6>🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><h6>
-       
+<br>
+<br>
 <p align="center">
 
 - 📋 Languages:
@@ -61,7 +62,7 @@
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
     ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-
+    <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 </p>
 
@@ -74,15 +75,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&theme=buefy&layout=compact" />
 </a>
  <br>
- <br>
- 
+<br>
 </div>
 <br>
- 
- 
- 
- 
-   ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:marlenemsanchez05@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/MarleneMS09"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
