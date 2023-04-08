@@ -16,6 +16,7 @@
 <h6>🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><h6>
 <br>
 <br>
+<h2>&nbsp;Tools <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"></h2>
 <p align="center">
 
 - 📋 Languages and others:
@@ -82,7 +83,7 @@
 <br>
 <br>
 <br>
-<h4> You can reach me in👩‍💻 <h4>
+<h4> Reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">  <h4>
 <p align="left">
 	<a href="mailto:marlenemsanchez05@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/MarleneMS09"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
