@@ -71,15 +71,17 @@
  </div>  
   <div>
   <br> <h6> Github Stats: <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h6>
+       	  
 <a href="https://github.com/MarleneMS09" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarleneMS09&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&theme=buefy&layout=compact" />
 </a>
  <br>
 <br>
+<img align="center" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lia0wang&theme=blueberry&hide_border=true" />
 </div>
 <br>
-<p align="center">
+<p align="left">
 	<a href="mailto:marlenemsanchez05@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/MarleneMS09"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/vanessamarlenemorfinsanchez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
