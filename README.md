@@ -64,9 +64,8 @@
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
     <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
-</p>
+	</p>
 
-<br>  
  </div>  
   <div>
   <br> <h6> Github Stats: <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h6>     	  
