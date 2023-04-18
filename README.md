@@ -14,6 +14,7 @@
 <h6> 💻 I'm currently doing: An e-commerce, a project focused in design an app, and my Portfolio </h6>
 <h6>🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><h6>
 <br>
+	<br>
 <h2>&nbsp;Tools <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"></h2>
 <p align="center">
 
