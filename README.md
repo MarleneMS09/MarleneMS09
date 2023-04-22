@@ -6,7 +6,7 @@
  <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
 </div>            
-<h4>&nbsp;About Me </h4>
+<h3>&nbsp;About Me </h3>
 <h6> 💬 I'm a passionate and self-taugth person who likes to create and design things </h3>
 <h6> 🧙‍ I'm currently working with:JS, NodeJs, React, Python, and Figma </h6>
 <h6>🌱 I’m currently learning: Front-end and UX-UI design</h6>
