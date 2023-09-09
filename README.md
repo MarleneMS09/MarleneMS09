@@ -8,10 +8,10 @@
 </div>            
 <h3>&nbsp;About Me </h3>
 <h6> 💬 I'm a passionate and self-taugth person who likes to create and design things </h3>
-<h6> 🧙‍ I'm currently working with:JS, NodeJs, React, Python, and Figma </h6>
-<h6>🌱 I’m currently learning: Front-end and UX-UI design</h6>
-<h6> 💻 I'm currently doing: An e-commerce, a project focused in design an app, and my Portfolio </h6>
-<h6>🏆 In a future: I'd like to become a data scientist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"><h6>
+<h6> 🧙‍ I'm currently working with: JS, NodeJs, React, Python, Figma & PHP </h6>
+<h6>🌱 I’m currently learning: Front-end, UX-UI design and back-end</h6>
+<h6> 💻   I'm currently doing: My Portfolio, landing pages and studying a master's degree in Software engineering management.  </h6>
+<h6>🏆 In the future: I would like to be a software engineer.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"><h6>
 <br>
 	<br>
 <h2>&nbsp;Tools <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"></h2>
