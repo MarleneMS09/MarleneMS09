@@ -1,7 +1,8 @@
 
 
+<br>
 <div>    
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=<Hello>+%2C+I'm+ Vanessa💜" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=ff0080&width=370&height=100&lines=<Hello>+%2C+I'm+ Vanessa💜" alt="Typing SVG" /></a>
 </p>
  <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
@@ -10,7 +11,7 @@
 <h6> 💬 I'm a passionate and self-taugth person who likes to create and design things </h3>
 <h6> 🧙‍ I'm currently working with: JS, NodeJs, React, Python, Figma & PHP </h6>
 <h6>🌱 I’m currently learning: Front-end, UX-UI design and back-end</h6>
-<h6> 💻   I'm currently doing: My Portfolio, landing pages and studying a master's degree in Software engineering management.  </h6>
+<h6> 💻 I'm currently doing: My Portfolio, landing pages and studying a master's degree in Software engineering management.  </h6>
 <h6>🏆 In the future: I would like to be a software engineer.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"><h6>
 <br>
 	<br>
