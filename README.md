@@ -1,6 +1,4 @@
 
-
-<br>
 <div>    
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=ff0080&width=370&height=100&lines=<Hello>+%2C+I'm+ Vanessa💜" alt="Typing SVG" /></a>
 </p>
