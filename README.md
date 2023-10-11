@@ -1,6 +1,6 @@
 
 <div>    
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=ff0080&width=370&height=100&lines=<Hello>+%2C+I'm+ Vanessa💜" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=ff0080&width=370&height=100&lines=<Hello World>+%2C+I'm+ Vanessa💜" alt="Typing SVG" /></a>
 </p>
  <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
