@@ -60,22 +60,20 @@
  </div>  
   <div>
   <br> 
-	  
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&layout=donut-vertical)](https://github.com/MarleneMS09/github-readme-stats)
 <br>
 <br>
-<br>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09)](https://github.com/MarleneMS09/github-readme-stats)
+	
+	
 <h4> Reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">  <h4>
 <p align="left">
 	<a href="mailto:marlenemsanchez05@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/MarleneMS09"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/vanessamarlenemorfinsanchez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.youtube.com/channel/UCpfIuDl1aVmxScz1KatI5XA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> 
-<br>
-	<br>
-	<br>
- 
- 
- 
  
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarlenemS09.repoName) <img src="https://komarev.com/ghpvc/?username=MarleneMS097" alt="MarleneMS09" />
 
