@@ -64,8 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&layout=donut-vertical)](https://github.com/MarleneMS09/github-readme-stats)
 <br>
 <br>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09)](https://github.com/MarleneMS09/github-readme-stats)
 	
 	
 <h4> Reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">  <h4>
