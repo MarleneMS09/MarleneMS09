@@ -63,6 +63,7 @@
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarleneMS09&layout=donut-vertical)](https://github.com/MarleneMS09/github-readme-stats)
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarleneMS09&count_private=true)
 <br>
 	
 	
