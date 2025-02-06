@@ -1,8 +1,11 @@
 
 <div>    
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=ff0080&width=470&height=200&lines=<Hello World>+%2C+I'm+ Vanessa💜" alt="Typing SVG" /></a>
-</p>
- <p align="left">
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/19c1d9ac-605a-4208-b1a9-0ddc5b5120bc" alt="me" width="150"/>
+</div>
+
+</div>
+
 </div>            
 <h3 style="color: #800080;">About Me</h3>
 <h6 style="color: #800080;">💬 I'm a passionate and self-taught person who likes to create and design things</h6>
