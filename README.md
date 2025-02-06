@@ -1,7 +1,8 @@
 
 <div>    
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/19c1d9ac-605a-4208-b1a9-0ddc5b5120bc" alt="me" width="150"/>
+	<a href="https://www.linkedin.com/in/vanessamarlenemsanchez/">
+  <img src="https://github.com/user-attachments/assets/19c1d9ac-605a-4208-b1a9-0ddc5b5120bc" alt="me" width="150"/> </a>
 </div>
 
 </div>
