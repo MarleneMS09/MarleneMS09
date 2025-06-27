@@ -10,9 +10,9 @@
 </div>            
 <h3 style="color: #800080;">About Me</h3>
 <h6 style="color: #800080;">💬 I'm a passionate and self-taught person who likes to create and design things</h6>
-<h6 style="color: #800080;">🧙‍ I'm currently working with: JS, NodeJs, React, Figma & AWS </h6>
-<h6 style="color: #800080;">🌱 I’m currently learning: AWS & Docker </h6>
-<h6 style="color: #800080;">💻 I’m currently working as a Full Stack Developer, managing various projects for clients. </h6>
+<h6 style="color: #800080;">🧙‍ I'm currently working with: JS, Figma & UX/UI interfaces </h6>
+<h6 style="color: #800080;">🌱 I’m currently learning: Figma & AdobeXD </h6>
+<h6 style="color: #800080;">💻 I’m currently working as a UX/UI designer & Front-End Developer </h6>
 <h6 style="color: #800080;">🏆 In the future: I would like to be a Tech Leader <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"></h6>
 
 <br>
