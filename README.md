@@ -20,7 +20,7 @@
 ## 💜 About Me
 - 🎨 Passionate about **designing intuitive interfaces** with a human-centered approach.  
 - 💻 Skilled in **JavaScript, React, CSS3, HTML5, Figma** and accessibility standards (WCAG).  
-- 🚀 Currently working as a **UX/UI Designer, Front-End Developer & Speaker**.  
+- 🚀 Currently working as a **UX/UI Designer & Speaker**.  
 - 🌱 Learning **Advanced Figma prototyping & Adobe XD**.  
 - 🏆 Future goal: Become a **Tech Leader** in product design & development.  
 
