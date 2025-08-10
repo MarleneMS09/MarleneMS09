@@ -5,7 +5,7 @@
 <div align="center">
 	<a href="https://www.linkedin.com/in/vanessamarlenemsanchez/">
   <img src="https://github.com/user-attachments/assets/19c1d9ac-605a-4208-b1a9-0ddc5b5120bc" alt="me" width="250"/> </a>
-  <h2 style="color: purple;">UX/UI Designer & Front-End Developer</h2>
+  <h2 style="color: purple;">UX/UI Designer, Front-End Developer & Speaker</h2>
   <p>Creating intuitive, accessible and engaging digital experiences 🌍</p>
 
   <!-- Botones -->
@@ -20,7 +20,7 @@
 ## 💜 About Me
 - 🎨 Passionate about **designing intuitive interfaces** with a human-centered approach.  
 - 💻 Skilled in **JavaScript, React, CSS3, HTML5, Figma** and accessibility standards (WCAG).  
-- 🚀 Currently working as a **UX/UI Designer & Front-End Developer**.  
+- 🚀 Currently working as a **UX/UI Designer, Front-End Developer & Speaker**.  
 - 🌱 Learning **Advanced Figma prototyping & Adobe XD**.  
 - 🏆 Future goal: Become a **Tech Leader** in product design & development.  
 
