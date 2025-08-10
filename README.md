@@ -4,9 +4,8 @@
 <div>    
 <div align="center">
 	<a href="https://www.linkedin.com/in/vanessamarlenemsanchez/">
-  <img src="https://github.com/user-attachments/assets/19c1d9ac-605a-4208-b1a9-0ddc5b5120bc" alt="me" width="150"/> </a>
-  
-  <h2>UX/UI Designer & Front-End Developer</h2>
+  <img src="https://github.com/user-attachments/assets/19c1d9ac-605a-4208-b1a9-0ddc5b5120bc" alt="me" width="250"/> </a>
+  <h2 style="color: purple;">UX/UI Designer & Front-End Developer</h2>
   <p>Creating intuitive, accessible and engaging digital experiences 🌍</p>
 
   <!-- Botones -->
