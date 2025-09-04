@@ -10,7 +10,7 @@
 
   <!-- Botones -->
   <a href="https://www.linkedin.com/in/vanessamarlenemsanchez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://vanessa-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://portfoliomarlene.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://github.com/MarleneMS09"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
