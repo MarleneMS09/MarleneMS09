@@ -4,12 +4,14 @@
 <div>    
 <div align="center">
 	<a href="https://www.linkedin.com/in/vanessamarlenemsanchez/">
-  <img src="https://github.com/user-attachments/assets/19c1d9ac-605a-4208-b1a9-0ddc5b5120bc" alt="me" width="250"/> </a>
+  <p align="center">
+  <p align="center">
+<img width="140" height="140" alt="Image" src="https://github.com/user-attachments/assets/bda2bbd5-f245-4df4-8e3f-b61e42587dda" />
   <h2 style="color: purple;">UX/UI Designer, Front-End Developer & Speaker</h2>
   <p>Creating intuitive, accessible and engaging digital experiences 🌍</p>
-
+</p>
   <!-- Botones -->
-  <a href="https://www.linkedin.com/in/vanessamarlenemsanchez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vanessamarlenemsanchez/"></a>
   <a href="https://portfoliomarlene.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://github.com/MarleneMS09"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
